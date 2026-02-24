@@ -1,0 +1,41 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/sebastian/Documents/drone/autoland/install/traj_utils/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/install/multi_map_server/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/install/quadrotor_msgs/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/build/marker_detection",
+        "/home/sebastian/Documents/drone/autoland/install/marker_detection/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/landing_site_identification",
+        "/home/sebastian/Documents/drone/autoland/install/landing_site_identification/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/autoland_simulation",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_simulation/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/autoland_perception",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_perception/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/autoland_core",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_core/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_interfaces/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sebastian/Documents/drone/autoland/install/traj_utils/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/install/multi_map_server/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/install/quadrotor_msgs/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/build/marker_detection",
+        "/home/sebastian/Documents/drone/autoland/install/marker_detection/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/landing_site_identification",
+        "/home/sebastian/Documents/drone/autoland/install/landing_site_identification/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/autoland_simulation",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_simulation/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/autoland_perception",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_perception/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/build/autoland_core",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_core/lib/python3.10/site-packages",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_interfaces/local/lib/python3.10/dist-packages",
+        "/home/sebastian/Documents/drone/autoland/install/autoland_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
