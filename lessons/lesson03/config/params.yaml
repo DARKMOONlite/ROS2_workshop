@@ -1,0 +1,20 @@
+# Configuration file for Lesson 03 nodes
+# This file contains the parameters needed by each node
+
+# Robot Controller Parameters
+robot_controller:
+  ros__parameters:
+    robot_name: "Atlas"
+    max_speed: 2.5
+
+# Sensor Monitor Parameters
+sensor_monitor:
+  ros__parameters:
+    sensor_type: "lidar"
+    update_rate: 10
+
+# Data Logger Parameters
+data_logger:
+  ros__parameters:
+    log_file: "/tmp/robot_data.log"
+    buffer_size: 100

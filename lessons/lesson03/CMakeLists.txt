@@ -24,9 +24,21 @@ ament_python_install_package(${PROJECT_NAME})
 
 # Install Python scripts
 install(PROGRAMS
-  # Add your Python scripts here, e.g.:
-  # scripts/my_script.py
+  lesson03/robot_controller.py
+  lesson03/sensor_monitor.py
+  lesson03/data_logger.py
+  lesson03/validator.py
   DESTINATION lib/${PROJECT_NAME}
+)
+
+# Install launch files
+install(DIRECTORY launch
+  DESTINATION share/${PROJECT_NAME}
+)
+
+# Install config files
+install(DIRECTORY config
+  DESTINATION share/${PROJECT_NAME}
 )
 
 if(BUILD_TESTING)
